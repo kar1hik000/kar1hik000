@@ -4,8 +4,8 @@
 ---
 
 - 🔭 I’m currently working on **LLMs, Multi-Agent Cognitive Processing (MCPs), and Agentic AI**
-- 🌱 Exploring sustainable AI systems and real-time deepfake detection
-- 🧠 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Green Computing, ROS2
+- 🌱 Exploring Green Cloud Computing, System Design
+- 🧠 Areas of Interest: Data Science, Machine Learning, Deep Learning, Cloud Computing
 - 📫 Reach me:  
   📧 garikipatikarthik21@gmail.com  
   💼 [LinkedIn](https://www.linkedin.com/in/garikipati-karthik-9a4479251/)  
