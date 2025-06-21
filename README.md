@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **LLMs, Multi-Agent Cognitive Processing (MCPs), and Agentic AI**
+- 🔭 I’m currently working on **LLMs, Model Context Protocol (MCPs), and Agentic AI**
 - 🌱 Exploring Green Cloud Computing, System Design
 - 🧠 Areas of Interest: Data Science, Machine Learning, Deep Learning, Cloud Computing
 - 📫 Reach me:  
