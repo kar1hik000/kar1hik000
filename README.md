@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Garikipati</h1>
-<h3 align="center">🚀 A passionate AI enthusiast & CS Undergrad at Amrita Vishwa Vidyapeetham</h3>
+<h3 align="center">🚀 A passionate AI enthusiast & CS(AI) Undergrad at Amrita Vishwa Vidyapeetham</h3>
 
 ---
 
