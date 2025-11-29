@@ -1,79 +1,66 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23,30&height=220&section=header&text=Karthik%20Garikipati&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Enthusiast%20%7C%20CS(AI)%20Undergrad%20@%20Amrita%20Vishwa%20Vidyapeetham&descFontSize=20&descAlign=50" alt="Header" />
-</p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+  <h3>👋 Hello, World!</h3>
+  <p>
+    <em>I am a Computer Science undergraduate specializing in Artificial Intelligence. <br/>
+    My focus lies at the intersection of <strong>Large Language Models (LLMs)</strong> and <strong>Scalable Cloud Infrastructure</strong>.</em>
+  </p>
 
-<p align="center">
-  <em>I am a Computer Science undergraduate specializing in Artificial Intelligence with a passion for building scalable, intelligent systems. My current focus lies at the intersection of Large Language Models (LLMs) and Cloud Infrastructure.</em>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Agentic_AI_&_MCPs-2ea44f?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Learning-System_Design-007EC6?style=for-the-badge&logo=arxiv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Interest-Green_Computing-15803d?style=for-the-badge&logo=nvidia&logoColor=white" />
+  </p>
 
-<div align="center">
-
-| 🔭 **Current Focus** | 🌱 **Learning** | 💡 **Core Interests** |
-| :--- | :--- | :--- |
-| Agentic AI & MCPs | System Design | Data Science |
-| LLM Optimization | Green Cloud Computing | Computer Vision |
-| RAG Pipelines | High Performance Computing | Deep Learning |
-
+  <p>
+    <a href="https://drive.google.com/file/d/1xnHwmjYhPChlHER6F6w7wf95Ssox1Wfl/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/Resume-View_PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/garikipati-karthik-9a4479251/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:garikipatikarthik21@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1xnHwmjYhPChlHER6F6w7wf95Ssox1Wfl/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/View_Resume-000000?style=for-the-badge&logo=rezume&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://www.linkedin.com/in/garikipati-karthik-9a4479251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:garikipatikarthik21@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Technical Arsenal</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90"><strong>Languages</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>AI & Data</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>Cloud & DB</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mysql,mongodb" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>Tools</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,kafka" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<hr/>
 
 <div align="center">
-  <a href="https://github.com/kar1hik000">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kar1hik000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kar1hik000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+  <h2>🛠️ Technical Arsenal</h2>
+  
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
+
+  <br/><br/>
+
+  <p><strong>AI, Data & Machine Learning</strong></p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas&theme=dark" />
+
+  <br/><br/>
+
+  <p><strong>Cloud, Databases & DevOps</strong></p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mysql,mongodb&theme=dark" />
+
+  <br/><br/>
+
+  <p><strong>Tools & Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,kafka&theme=dark" />
 </div>
 
-<br />
+<hr/>
 
-<p align="center">
+<div align="center">
+  <h2>📊 Analytics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=kar1hik000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kar1hik000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Languages" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23,30&height=100&section=footer" />
-</p>
+</div>
