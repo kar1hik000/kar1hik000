@@ -1,90 +1,101 @@
-<!-- TOP WAVE BANNER -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Karthik%20Garikipati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50" />
-</p>
-
-<h2 align="center">👋 Hey there, I'm Karthik Garikipati</h2>
-<h4 align="center">🚀 AI Enthusiast | CS(AI) Undergrad @ Amrita Vishwa Vidyapeetham, Bengaluru</h4>
-
----
-
-### 🔍 About Me
-
-```yaml
-🔭 Working on: LLMs, Model Context Protocols (MCPs), Agentic AI
-🌱 Learning: Green Cloud Computing, System Design, Infrastructure
-💡 Interests: Data Science, Machine Learning, Deep Learning, Cloud Computing
-📧 Contact:
-  ✉️ Email: garikipatikarthik21@gmail.com
-  💼 LinkedIn: https://www.linkedin.com/in/garikipati-karthik-9a4479251/
-📄 Resume: https://drive.google.com/file/d/1xnHwmjYhPChlHER6F6w7wf95Ssox1Wfl/view?usp=drive_link
-```
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,nodejs" />
-</p>
-
-<p align="center">
-  <!-- Databases and Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,linux" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
-</p>
-
-<p align="center">
-  <!-- AI/ML Frameworks -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="seaborn"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="opencv"/>
-</p>
-
-<p align="center">
-  <!-- Big Data -->
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40" alt="hadoop"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" alt="kafka"/>
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40" height="40" alt="arduino"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=6CACE4&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Karthik+Garikipati;Software+Engineering+%7C+AI+%7C+Systems;Building+Scalable+and+Clean+Systems" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👋 About Me
+
+🎓 **B.Tech CSE (AI), Class of 2026**  
+📍 Bengaluru, India  
+
+I’m a Computer Science undergraduate with strong foundations in **Data Structures, Algorithms, and Object-Oriented Design**, passionate about building **scalable systems** and **real-world AI solutions**.
+
+I enjoy working close to the system — optimizing performance, designing clean APIs, and writing maintainable code that scales.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`Java` `C++` `Python` `JavaScript` `SQL`
+
+**Core CS**  
+Data Structures & Algorithms · OOP · Operating Systems · Complexity Analysis
+
+**Systems & Cloud**  
+AWS (EC2, S3) · Docker · Microservices · Scalability · Fault Tolerance
+
+**Databases & Tools**  
+MySQL · MongoDB · Git · Linux · CI/CD · Agile
+
+---
+
+## 📌 Experience
+
+**Machine Learning Research Intern**  
+*Robotics Lab, Amrita Vishwa Vidyapeetham*  
+- Built modular ML-integrated software components  
+- Reduced pipeline failures by **40%** through systematic debugging  
+- Dockerized applications for reproducible deployment  
+
+**Learning Intern – Data Science**  
+*Tiger Analytics India Consulting Pvt. Ltd.*  
+- Developed optimized Python–SQL data pipelines  
+- Automated validation workflows, reducing debugging time by **30%**  
+- Contributed production-ready code in Agile teams  
+
+---
+
+## 🚀 Projects
+
+**Distributed Data Processing Pipeline (AWS)**  
+- Designed a fault-tolerant, scalable data pipeline on AWS  
+- Implemented logging, monitoring, and resource optimization  
+
+**THEATRUM – Scalable Streaming Platform**  
+- Full-stack platform with authentication and REST APIs  
+- Optimized MongoDB schemas and frontend performance  
+
+**Intelligent Skin Disease Detection**  
+- CNN-based classification system with optimized inference  
+- Improved execution speed by **25%**  
+
+**Secure File Encryption System**  
+- Implemented encryption using Finite Automata  
+- Applied strict OOP and deterministic testing  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kar1hik000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarthikGarikipati&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikGarikipati&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kar1hik000&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikGarikipati&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🐍 Contribution Graph Animation
 
 <p align="center">
-  <a href="mailto:garikipatikarthik21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/garikipati-karthik-9a4479251/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kar1hik000">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/KarthikGarikipati/KarthikGarikipati/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-</p>
+## 📫 Connect With Me
+
+📧 **garikipatikarthik21@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/garikipatikarthik)
+
+---
 
 <p align="center">
-  ⭐ _Thanks for visiting! Let's connect and build something awesome!_ ⭐
+  <i>Always learning. Always building.</i>
 </p>
