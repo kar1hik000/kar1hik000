@@ -69,14 +69,13 @@ MySQL · MongoDB · Git · Linux · CI/CD · Agile
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarthikGarikipati&show_icons=true&hide_border=true&theme=transparent" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikGarikipati&hide_border=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarthikGarikipati&show_icons=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=KarthikGarikipati&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikGarikipati&layout=compact&hide_border=true&theme=transparent" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikGarikipati&layout=compact&hide_border=true" />
 </p>
 
 ---
