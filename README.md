@@ -115,10 +115,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1hik000&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6CACE4" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kar1hik000&bg_color=0D1117&color=6CACE4&line=6CACE4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 <p align="center">
